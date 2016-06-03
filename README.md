@@ -4,7 +4,7 @@ PAM QRCode Authentication is a pluggable authentication module designed for auth
 
 ## How to 
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=d7CGI3weA74 "PAM QRCode Tutorial")
+[![PAM QRCode Tutorial](screenshot.png)](https://www.youtube.com/watch?v=d7CGI3weA74 "PAM QRCode Tutorial")
 
 ## Help
 
