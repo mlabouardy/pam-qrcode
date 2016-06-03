@@ -2,6 +2,8 @@
 
 PAM QRCode Authentication is a pluggable authentication module designed for authentication.using QRCode based on Challenge Response
 
+![Login Screen](pamqrcode.png)]
+
 ## Quickstart 
 
 [![PAM QRCode Tutorial](screenshot.png)](https://www.youtube.com/watch?v=d7CGI3weA74 "PAM QRCode Tutorial")
