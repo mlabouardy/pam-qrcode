@@ -6,6 +6,19 @@ PAM QRCode Authentication is a pluggable authentication module designed for auth
 
 [![PAM QRCode Tutorial](screenshot.png)](https://www.youtube.com/watch?v=d7CGI3weA74 "PAM QRCode Tutorial")
 
+## How it works ?
+
+This technique is easy to use, requiring users to only take a picture of the QR code with a camera on their cell phones. The computer displays a QR code that embeds a challenge. The cell phone generate the response to the challenge, and send the response via the Webcam of the computer.
+
+## System Requirements
+
+- LightDM
+- OpenCV
+- ZBar
+- OpenSSL
+- QRenCode
+- Lightdm-webkit-greeter
+
 ## Help
 
 If you run into issues, please don't hesitate to find help on the GitHub project.
